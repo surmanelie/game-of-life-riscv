@@ -1,0 +1,9 @@
+# Course material (EPFL) - not redistributed
+*.pdf
+project.tar.gz
+project/Vtb
+project/out/
+out/
+*.o
+*.elf
+*.bin
